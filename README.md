@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishnkant Singh</h1>
 <h3 align="center">A Passionate Mern Stack Developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
+
 - 🔭 I’m currently working on **GitHub Clone**
 
 - 🌱 I’m currently learning **React, NodeJS**
